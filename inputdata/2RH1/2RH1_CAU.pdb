@@ -1,0 +1,90 @@
+CRYST1  106.318  169.240   40.154  90.00 105.62  90.00 C 1 2 1       1
+HETATM    1  C1  CAU A 408       4.572  -0.610  14.402  1.00 56.87           C  
+HETATM    2  C2  CAU A 408       5.342  -1.453  13.608  1.00 54.54           C  
+HETATM    3  C3  CAU A 408       4.944  -1.735  12.322  1.00 55.09           C  
+HETATM    4  C4  CAU A 408       3.711  -1.128  11.835  1.00 53.66           C  
+HETATM    5  C5  CAU A 408       2.957  -0.293  12.640  1.00 56.42           C  
+HETATM    6  C6  CAU A 408       3.395  -0.038  13.926  1.00 56.28           C  
+HETATM    7  N7  CAU A 408       5.450  -2.502  11.298  1.00 57.07           N  
+HETATM    8  C8  CAU A 408       4.622  -2.419  10.203  1.00 54.68           C  
+HETATM    9  C9  CAU A 408       3.513  -1.539  10.556  1.00 53.44           C  
+HETATM   10  C10 CAU A 408       4.644  -2.962   8.953  1.00 54.90           C  
+HETATM   11  C11 CAU A 408       3.636  -2.680   8.047  1.00 56.29           C  
+HETATM   12  C12 CAU A 408       2.582  -1.842   8.386  1.00 56.44           C  
+HETATM   13  C13 CAU A 408       2.502  -1.254   9.654  1.00 52.29           C  
+HETATM   14  O14 CAU A 408       1.472  -0.433   9.992  1.00 51.01           O  
+HETATM   15  C15 CAU A 408       0.454  -0.026   9.098  1.00 46.24           C  
+HETATM   16  C16 CAU A 408      -0.524   0.858   9.830  1.00 45.65           C  
+HETATM   17  O17 CAU A 408      -1.571   1.217   8.944  1.00 50.96           O  
+HETATM   18  C18 CAU A 408      -1.071   0.121  11.057  1.00 51.24           C  
+HETATM   19  N19 CAU A 408      -2.279   0.746  11.586  1.00 54.99           N  
+HETATM   20  C20 CAU A 408      -2.601   0.690  13.001  1.00 60.13           C  
+HETATM   21  C21 CAU A 408      -2.685  -0.772  13.437  1.00 66.62           C  
+HETATM   22  C22 CAU A 408      -3.901   1.455  13.267  1.00 59.87           C  
+HETATM   23  H01 CAU A 408       4.897  -0.392  15.419  1.00 56.87           H  
+HETATM   24  H02 CAU A 408       6.259  -1.889  14.004  1.00 54.54           H  
+HETATM   25  H03 CAU A 408       2.036   0.155  12.268  1.00 56.42           H  
+HETATM   26  H04 CAU A 408       2.813   0.617  14.574  1.00 56.28           H  
+HETATM   27  H05 CAU A 408       6.301  -3.044  11.344  1.00 57.07           H  
+HETATM   28  H06 CAU A 408       5.461  -3.623   8.665  1.00 54.90           H  
+HETATM   29  H07 CAU A 408       3.670  -3.123   7.052  1.00 56.29           H  
+HETATM   30  H08 CAU A 408       1.803  -1.638   7.652  1.00 56.44           H  
+HETATM   31  H09 CAU A 408      -0.064  -0.903   8.710  1.00 46.24           H  
+HETATM   32  H10 CAU A 408       0.896   0.526   8.268  1.00 46.24           H  
+HETATM   33  H11 CAU A 408      -0.026   1.764  10.175  1.00 45.65           H  
+HETATM   34  H12 CAU A 408      -1.866   0.439   8.464  1.00 50.96           H  
+HETATM   35  H13 CAU A 408      -0.309   0.158  11.835  1.00 51.24           H  
+HETATM   36  H14 CAU A 408      -1.302  -0.906  10.776  1.00 51.24           H  
+HETATM   37  H15 CAU A 408      -2.224   1.725  11.343  1.00 54.99           H  
+HETATM   38  H16 CAU A 408      -1.820   1.170  13.591  1.00 60.13           H  
+HETATM   39  H17 CAU A 408      -3.691  -1.148  13.253  1.00 66.62           H  
+HETATM   40  H18 CAU A 408      -1.967  -1.363  12.868  1.00 66.62           H  
+HETATM   41  H19 CAU A 408      -2.458  -0.848  14.500  1.00 66.62           H  
+HETATM   42  H20 CAU A 408      -4.690   0.750  13.527  1.00 59.87           H  
+HETATM   43  H21 CAU A 408      -3.751   2.152  14.092  1.00 59.87           H  
+HETATM   44  H22 CAU A 408      -4.188   2.007  12.372  1.00 59.87           H  
+CONECT    1    2    6   23
+CONECT    2    1    3   24
+CONECT    3    2    4    7
+CONECT    4    3    5    9
+CONECT    5    4    6   25
+CONECT    6    1    5   26
+CONECT    7    3    8   27
+CONECT    8    7    9   10
+CONECT    9    4    8   13
+CONECT   10    8   11   28
+CONECT   11   10   12   29
+CONECT   12   11   13   30
+CONECT   13    9   12   14
+CONECT   14   13   15
+CONECT   15   14   16   31   32
+CONECT   16   15   17   18   33
+CONECT   17   16   34
+CONECT   18   16   19   35   36
+CONECT   19   18   20   37
+CONECT   20   19   21   22   38
+CONECT   21   20   39   40   41
+CONECT   22   20   42   43   44
+CONECT   23    1
+CONECT   24    2
+CONECT   25    5
+CONECT   26    6
+CONECT   27    7
+CONECT   28   10
+CONECT   29   11
+CONECT   30   12
+CONECT   31   15
+CONECT   32   15
+CONECT   33   16
+CONECT   34   17
+CONECT   35   18
+CONECT   36   18
+CONECT   37   19
+CONECT   38   20
+CONECT   39   21
+CONECT   40   21
+CONECT   41   21
+CONECT   42   22
+CONECT   43   22
+CONECT   44   22
+END

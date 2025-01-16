@@ -1,0 +1,121 @@
+REMARK LIGPARGEN GENERATED PDB FILE
+ATOM      1  H00 SUV     1       2.339   0.319  12.326
+ATOM      2  O01 SUV     1       2.126   0.654  11.452
+ATOM      3  C02 SUV     1       1.810  -0.284  10.720
+ATOM      4  N03 SUV     1       2.511  -1.432  10.717
+ATOM      5  C04 SUV     1       0.641  -0.180   9.965
+ATOM      6  H05 SUV     1       2.623  -0.045  10.034
+ATOM      7  C06 SUV     1       3.665  -1.446  11.658
+ATOM      8  C07 SUV     1       2.077  -2.525   9.810
+ATOM      9  C08 SUV     1       0.595   0.116   8.594
+ATOM     10  C09 SUV     1      -0.551  -0.390  10.655
+ATOM     11  H0A SUV     1       3.451  -0.667  12.389
+ATOM     12  C0B SUV     1       4.972  -1.131  10.928
+ATOM     13  C0C SUV     1       3.810  -2.759  12.435
+ATOM     14  H0D SUV     1       2.755  -2.571   8.958
+ATOM     15  H0E SUV     1       1.062  -2.327   9.467
+ATOM     16  C0F SUV     1       2.112  -3.856  10.542
+ATOM     17  N0G SUV     1       1.683   0.333   7.852
+ATOM     18  C0H SUV     1      -0.642   0.188   7.958
+ATOM     19  H0I SUV     1      -0.518  -0.619  11.720
+ATOM     20  C0J SUV     1      -1.779  -0.315  10.011
+ATOM     21  H0K SUV     1       5.769  -1.758  11.325
+ATOM     22  H0M SUV     1       4.851  -1.330   9.863
+ATOM     23  H0N SUV     1       5.227  -0.081  11.077
+ATOM     24  H0O SUV     1       4.519  -2.605  13.249
+ATOM     25  H0P SUV     1       4.172  -3.536  11.761
+ATOM     26  C0Q SUV     1       2.463  -3.190  13.027
+ATOM     27  H0R SUV     1       1.519  -4.609  10.023
+ATOM     28  H0S SUV     1       3.135  -4.229  10.599
+ATOM     29  N0T SUV     1       1.586  -3.598  11.887
+ATOM     30  N0U SUV     1       1.742   0.043   6.666
+ATOM     31  N0V SUV     1       2.741   0.834   8.223
+ATOM     32  H0W SUV     1      -0.681   0.417   6.892
+ATOM     33  C0X SUV     1      -1.826  -0.026   8.656
+ATOM     34  C0Y SUV     1      -2.950  -0.528  10.728
+ATOM     35  H0Z SUV     1       2.597  -4.017  13.725
+ATOM     36  H10 SUV     1       2.011  -2.358  13.567
+ATOM     37  C11 SUV     1       0.258  -3.699  12.008
+ATOM     38  C12 SUV     1       2.933   0.370   6.183
+ATOM     39  C13 SUV     1       3.589   0.889   7.205
+ATOM     40  H14 SUV     1      -2.785   0.034   8.141
+ATOM     41  H15 SUV     1      -3.763  -0.748  10.035
+ATOM     42  H16 SUV     1      -2.813  -1.369  11.406
+ATOM     43  H17 SUV     1      -3.194   0.368  11.300
+ATOM     44  N18 SUV     1      -0.470  -3.519  13.103
+ATOM     45  O19 SUV     1      -0.509  -4.007  10.996
+ATOM     46  H1A SUV     1       3.291   0.239   5.162
+ATOM     47  H1B SUV     1       4.607   1.278   7.211
+ATOM     48  C1C SUV     1      -1.738  -3.725  12.736
+ATOM     49  C1D SUV     1      -1.752  -4.029  11.432
+ATOM     50  C1E SUV     1      -2.875  -3.673  13.429
+ATOM     51  C1F SUV     1      -2.884  -4.291  10.780
+ATOM     52  H1G SUV     1      -2.855  -3.426  14.491
+ATOM     53  C1H SUV     1      -4.084  -3.933  12.799
+ATOM     54  H1I SUV     1      -2.856  -4.534   9.718
+ATOM     55  C1J SUV     1      -4.094  -4.255  11.450
+ATOM     56  Cl0 SUV     1      -5.557  -3.856  13.667
+ATOM     57  H1M SUV     1      -5.029  -4.474  10.934
+TER 
+CONECT    1    2 
+CONECT    2    3 
+CONECT    3    4 
+CONECT    3    5 
+CONECT    3    6 
+CONECT    4    7 
+CONECT    4    8 
+CONECT    5    9 
+CONECT    5   10 
+CONECT    7   11 
+CONECT    7   12 
+CONECT    7   13 
+CONECT    8   14 
+CONECT    8   15 
+CONECT    8   16 
+CONECT    9   17 
+CONECT    9   18 
+CONECT   10   19 
+CONECT   10   20 
+CONECT   12   21 
+CONECT   12   22 
+CONECT   12   23 
+CONECT   13   24 
+CONECT   13   25 
+CONECT   13   26 
+CONECT   16   27 
+CONECT   16   28 
+CONECT   16   29 
+CONECT   17   30 
+CONECT   17   31 
+CONECT   18   32 
+CONECT   18   33 
+CONECT   20   34 
+CONECT   26   35 
+CONECT   26   36 
+CONECT   29   37 
+CONECT   30   38 
+CONECT   31   39 
+CONECT   33   40 
+CONECT   34   41 
+CONECT   34   42 
+CONECT   34   43 
+CONECT   37   44 
+CONECT   37   45 
+CONECT   38   46 
+CONECT   39   47 
+CONECT   44   48 
+CONECT   45   49 
+CONECT   48   50 
+CONECT   49   51 
+CONECT   50   52 
+CONECT   50   53 
+CONECT   51   54 
+CONECT   51   55 
+CONECT   53   56 
+CONECT   55   57 
+CONECT   20   33 
+CONECT   26   29 
+CONECT   38   39 
+CONECT   48   49 
+CONECT   53   55 
+END

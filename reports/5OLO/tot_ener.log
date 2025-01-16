@@ -1,0 +1,6 @@
+Statistics over 2500001 steps [ 0.0000 through 5000.0000 ps ], 1 data sets
+All statistics are over 25001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Total Energy             -1.10474e+06        950    3716.94    -6437.6  (kJ/mol)

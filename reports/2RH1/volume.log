@@ -1,0 +1,6 @@
+Statistics over 2500001 steps [ 0.0000 through 5000.0000 ps ], 1 data sets
+All statistics are over 25001 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Volume                      964.616       0.47    3.95111   -2.87712  (nm^3)

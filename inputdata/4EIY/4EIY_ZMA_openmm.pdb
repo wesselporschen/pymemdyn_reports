@@ -1,0 +1,86 @@
+REMARK LIGPARGEN GENERATED PDB FILE
+ATOM      1  C00 ZMA     1      -3.703   5.803  20.490
+ATOM      2  C01 ZMA     1      -3.456   5.894  21.858
+ATOM      3  C02 ZMA     1      -2.149   6.140  22.291
+ATOM      4  O03 ZMA     1      -1.906   6.231  23.632
+ATOM      5  C04 ZMA     1      -1.103   6.294  21.359
+ATOM      6  C05 ZMA     1      -1.368   6.200  20.003
+ATOM      7  C06 ZMA     1      -2.650   5.958  19.567
+ATOM      8  C07 ZMA     1      -2.939   5.653  18.107
+ATOM      9  C08 ZMA     1      -2.985   4.117  18.120
+ATOM     10  N09 ZMA     1      -3.007   3.518  16.794
+ATOM     11  C0A ZMA     1      -1.900   3.436  16.029
+ATOM     12  N0B ZMA     1      -1.987   2.862  14.791
+ATOM     13  N0C ZMA     1      -0.719   3.919  16.496
+ATOM     14  C0D ZMA     1       0.401   3.840  15.728
+ATOM     15  N0E ZMA     1       1.541   4.328  16.230
+ATOM     16  N0F ZMA     1       0.316   3.232  14.536
+ATOM     17  N0G ZMA     1       1.341   3.060  13.633
+ATOM     18  C0H ZMA     1      -0.847   2.800  14.057
+ATOM     19  N0I ZMA     1      -0.688   2.402  12.764
+ATOM     20  C0J ZMA     1       0.675   2.406  12.657
+ATOM     21  C0K ZMA     1       1.422   1.753  11.561
+ATOM     22  C0M ZMA     1       0.872   0.918  10.618
+ATOM     23  C0N ZMA     1       1.974   0.585   9.837
+ATOM     24  C0O ZMA     1       3.079   1.270  10.313
+ATOM     25  O0P ZMA     1       2.738   2.055  11.405
+ATOM     26  H0Q ZMA     1      -4.715   5.610  20.133
+ATOM     27  H0R ZMA     1      -4.268   5.776  22.577
+ATOM     28  H0S ZMA     1      -1.454   5.438  23.930
+ATOM     29  H0T ZMA     1      -0.087   6.485  21.707
+ATOM     30  H0U ZMA     1      -0.561   6.320  19.279
+ATOM     31  H0V ZMA     1      -2.208   6.069  17.414
+ATOM     32  H0W ZMA     1      -3.891   6.079  17.792
+ATOM     33  H0X ZMA     1      -3.916   3.834  18.611
+ATOM     34  H0Y ZMA     1      -2.105   3.751  18.648
+ATOM     35  H0Z ZMA     1      -3.878   3.155  16.437
+ATOM     36  H10 ZMA     1       2.392   4.284  15.687
+ATOM     37  H11 ZMA     1       1.551   4.739  17.153
+ATOM     38  H12 ZMA     1      -0.164   0.599  10.510
+ATOM     39  H13 ZMA     1       1.969  -0.103   8.991
+ATOM     40  H14 ZMA     1       4.079   1.203   9.887
+TER 
+CONECT    1    2 
+CONECT    2    3 
+CONECT    3    4 
+CONECT    3    5 
+CONECT    5    6 
+CONECT    1    7 
+CONECT    7    8 
+CONECT    8    9 
+CONECT    9   10 
+CONECT   10   11 
+CONECT   11   12 
+CONECT   11   13 
+CONECT   13   14 
+CONECT   14   15 
+CONECT   14   16 
+CONECT   16   17 
+CONECT   12   18 
+CONECT   18   19 
+CONECT   17   20 
+CONECT   20   21 
+CONECT   21   22 
+CONECT   22   23 
+CONECT   23   24 
+CONECT   21   25 
+CONECT    1   26 
+CONECT    2   27 
+CONECT    4   28 
+CONECT    5   29 
+CONECT    6   30 
+CONECT    8   31 
+CONECT    8   32 
+CONECT    9   33 
+CONECT    9   34 
+CONECT   10   35 
+CONECT   15   36 
+CONECT   15   37 
+CONECT   22   38 
+CONECT   23   39 
+CONECT   24   40 
+CONECT    6    7 
+CONECT   16   18 
+CONECT   19   20 
+CONECT   24   25 
+END
