@@ -1,0 +1,6 @@
+Statistics over 1250001 steps [ 0.0000 through 2500.0000 ps ], 1 data sets
+All statistics are over 12501 points
+
+Energy                      Average   Err.Est.       RMSD  Tot-Drift
+-------------------------------------------------------------------------------
+Pressure                   0.206175       0.76    89.3968    4.46163  (bar)
